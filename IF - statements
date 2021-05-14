@@ -1,0 +1,18 @@
+// Write a C program to find maximum between two numbers using if else.  
+
+			
+#Include <stdio.h>
+
+   main()
+    {  int a=5, b=2;
+	   
+	   if(a>b)
+	   {
+	   printf(" a>b \n");
+	   }
+	   }
+	   else
+	   {
+	   printf("b is greater");
+	   }
+    }
